@@ -1,6 +1,8 @@
 # Hi, I'm Fidan 👋
 
-**Data Analyst & System Specialist** · Finance systems, dashboards and internal tools
+**Data Analyst & System Specialist** · **AI Prompting & Workflow Automation**
+
+Finance systems, dashboards, internal tools and automated workflows
 
 > ⚠️ The projects below are shown as **overviews only**.
 > The real source code is **private** because it contains confidential information.
@@ -86,10 +88,12 @@ flowchart LR
 
 ---
 
+**What I do:** Data analysis · AI prompting · Workflow automation · Internal tools
+
 **Tools I work with:** Business Central · Power BI · Tableau · Notion · JavaScript · SQL
 
 ---
 
 ### 🤖 How these projects were built
 
-All projects were built through **vibe coding**. I came up with the ideas, wrote the prompts, defined the parameters and requirements, and tested each project until it worked correctly. The code itself was written with the help of AI (Claude).
+All projects were built by integrating **AI and AI agents** into the development process. I designed each solution, defined the requirements and parameters, and tested it until it worked correctly.
