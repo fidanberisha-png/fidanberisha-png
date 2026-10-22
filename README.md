@@ -2,12 +2,12 @@
 
 **Data Analyst & System Specialist** · Finance systems, dashboards and internal tools
 
-> ⚠️ The projects below are shown as **demo overviews only**.
+> ⚠️ The projects below are shown as **overviews only**.
 > The real source code is **private** because it contains confidential information.
 
 ---
 
-## 📊 Financial Dashboard
+## 📊 [Financial Dashboard](https://github.com/fidanberisha-png/financial-dashboard-overview)
 
 **Why:** Give the finance team a real-time view of invoices and revenue, without manual exports from the accounting system.
 
@@ -23,7 +23,7 @@ flowchart LR
 
 ---
 
-## 🗓️ HR Leave Portal
+## 🗓️ [HR Leave Portal](https://github.com/fidanberisha-png/hr-leave-portal-overview)
 
 **Why:** Replace leave and sick-leave requests sent by email or spreadsheet with one simple portal.
 
@@ -39,7 +39,7 @@ flowchart LR
 
 ---
 
-## 🎫 IT Ticket Portal
+## 🎫 [IT Ticket Portal](https://github.com/fidanberisha-png/it-ticket-portal-overview)
 
 **Why:** Let colleagues open IT tickets from a simple web page, without needing an account in the ticketing workspace.
 
@@ -51,11 +51,11 @@ flowchart LR
     D --> E[Email + Slack notification]
 ```
 
-**Tech:** Node.js · Notion API · Render
+**Tech:** Node.js · Notion API
 
 ---
 
-## 🛠️ Vendor Support Ticket Tracker
+## 🛠️ [Support Ticket Tracker](https://github.com/fidanberisha-png/support-ticket-tracker-overview)
 
 **Why:** Track support tickets opened with an external software vendor and measure how fast they respond and resolve them.
 
@@ -70,20 +70,26 @@ flowchart LR
 
 ---
 
-## 📁 Account Confirmations Portal
+## 📁 [Document Access Portal](https://github.com/fidanberisha-png/document-access-portal-overview)
 
-**Why:** Share account confirmation PDFs securely, so each person only sees the entities they are allowed to see.
+**Why:** Share confirmation PDFs securely, so each person only sees the documents they are allowed to see.
 
 ```mermaid
 flowchart LR
     A[Admin invites user] --> B[User sets own password]
-    B --> C[Admin grants entity access]
+    B --> C[Admin grants access]
     C --> D[Server checks access]
     D --> E[View / download PDF]
 ```
 
-**Tech:** Node.js · Server-side sessions · Render
+**Tech:** Node.js · Server-side sessions
 
 ---
 
 **Tools I work with:** Business Central · Power BI · Tableau · Notion · JavaScript · SQL
+
+---
+
+### 🤖 How these projects were built
+
+All projects were built through **vibe coding**. I came up with the ideas, wrote the prompts, defined the parameters and requirements, and tested each project until it worked correctly. The code itself was written with the help of AI (Claude).
