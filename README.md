@@ -90,7 +90,7 @@ flowchart LR
 
 **What I do:** Data analysis · AI prompting · Workflow automation · Internal tools
 
-**Tools I work with:** Business Central · Power BI · Tableau · Notion · JavaScript · SQL
+**Tools I work with:** Business Central · Power BI · Tableau · Notion · JavaScript · SQL · VS Code · Git & GitHub
 
 ---
 
